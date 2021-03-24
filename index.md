@@ -6,10 +6,9 @@
       <p><b>南京理工大学经济管理学院</b></p >
       <p><b>邮箱：1601335421@qq.com</b></p >
       <p><b>地址：南京市玄武区孝陵卫200号南京理工大学</b></p >
-      < a href=" ">English Version</ a>
     </td>
     <td width="25%">
-      < img src="/id.jpg" width="100%">      
+      <img src="/微信图片_20201215220522.jpg" width="100%">      
     </td>
   </tr>
 </table>
