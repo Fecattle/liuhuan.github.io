@@ -7,7 +7,7 @@
       <p><b>邮箱：1601335421@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/微信图片_20201215220522.jpg" width="100%">
+      <img src="/id.jpg" width="100%">
     </td>
   </tr>
  </table>
