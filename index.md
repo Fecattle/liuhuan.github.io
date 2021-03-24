@@ -1,5 +1,16 @@
 # Welcom to my website!
-</hr>
+<table border='0'>
+  <tr>
+    <td width="75%">
+      <h1>刘欢</h1>
+      <p><b>2019级本科生</b><p>
+      <p><b>邮箱：1601335421@qq.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/微信图片_20201215220522.jpg" width="100%">
+    </td>
+  </tr>
+ </table>
 ## 个人信息 Personal information
 ### 姓名：刘欢
 ### 学校：南京理工大学
@@ -10,13 +21,4 @@
 
 # 最近消息
 ### 无
-<table border='0'>
-  <tr>
-    <td width="75%">
-      <h1>刘欢</h1>
-      <p><b>2019级本科生</b><p>
-      <p><b>邮箱：1601335421@qq.com</b></p>
-    </td>
-  </tr>
- </table>
 
